@@ -63,7 +63,7 @@ A análise inicial dos dados permite identificar alguns padrões relevantes:
 
 • Elevação das ocorrências durante o final de semana, especialmente aos sábados e domingos, indicando influência de deslocamentos para lazer e viagens.
 
-• Aumento expressivo no número de acidentes nos últimos meses do ano, possivelmente relacionado ao maior fluxo de veículos nas rodovias durante o período de festas e comemorações de final de ano.
+• Aumento expressivo no número de acidentes no mês de dezembro, possivelmente relacionado ao maior fluxo de veículos nas rodovias durante o período de festas e comemorações de final de ano.
 
 
 ## 📂 Estrutura do Repositório
