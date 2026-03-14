@@ -51,7 +51,7 @@ O objetivo dessa análise é identificar padrões temporais e possíveis períod
 
 ## 🖼 Visualização do Dashboard
 
-![Dashboard Análise Temporal](imagens/dashboard-temporal.png)
+![Dashboard Análise Temporal](imagens/dashboard-temporal.PNG)
 
 Visualização do dashboard desenvolvido no Power BI apresentando a distribuição temporal dos acidentes registrados em 2025.
 
