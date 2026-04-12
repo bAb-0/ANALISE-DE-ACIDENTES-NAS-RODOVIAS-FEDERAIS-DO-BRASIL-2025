@@ -66,6 +66,25 @@ A análise inicial dos dados permite identificar alguns padrões relevantes:
 • Aumento expressivo no número de acidentes no mês de dezembro, possivelmente relacionado ao maior fluxo de veículos nas rodovias durante o período de festas e comemorações de final de ano.
 
 
+![Dashboard Tipos e Gravidades](imagens/Tipos_e_Gravidades.PNG)
+
+Visualização do dashboard desenvolvido no Power BI apresentando os principais tipos de acidentes e a gravidade das ocorrências nas rodovias federais em 2025.
+
+🔎 Principais Insights
+
+A análise dos dados evidencia padrões relevantes sobre a natureza e o impacto dos acidentes:
+
+• Predominância de colisões traseiras, sendo o tipo de acidente mais recorrente, com aproximadamente 14,4 mil ocorrências, indicando possível relação com falta de atenção e distância inadequada entre veículos.
+
+• Saída de leito carroçável e colisões transversais aparecem como os próximos tipos mais frequentes, sugerindo influência de fatores como condições da via, erro de condução ou perda de controle do veículo.
+
+• A maioria dos acidentes resulta em vítimas feridas, representando cerca de 77% dos casos, enquanto acidentes sem vítimas e com vítimas fatais correspondem a uma parcela significativamente menor.
+
+• Entre os feridos, há predominância de ferimentos leves, com cerca de 64 mil registros, em comparação com aproximadamente 20 mil casos de ferimentos graves.
+
+• Apesar do menor percentual, os acidentes com vítimas fatais ainda representam um ponto crítico, reforçando a necessidade de atenção a fatores de risco e prevenção.
+
+
 ## 📂 Estrutura do Repositório
 
 analise-acidentes-rodovias-2025
