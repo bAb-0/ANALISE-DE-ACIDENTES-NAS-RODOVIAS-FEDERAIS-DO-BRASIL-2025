@@ -85,6 +85,21 @@ A análise dos dados evidencia padrões relevantes sobre a natureza e o impacto 
 • Apesar do menor percentual, os acidentes com vítimas fatais ainda representam um ponto crítico, reforçando a necessidade de atenção a fatores de risco e prevenção.
 
 
+![Dashboard Tipos e Gravidades](imagens/Localidade.PNG)
+
+Visualização do dashboard desenvolvido no Power BI apresentando a distribuição local dos acidentes nas rodovias federais em 2025.
+
+🔎 Principais Insights
+
+A análise dos dados evidencia padrões relevantes sobre a distribuição geográfica e os pontos críticos das ocorrências nas rodovias federais em 2025:
+
+Predominância regional no Sudeste e Sul, com Minas Gerais (MG) apresentando o maior volume de acidentes (9,6 mil), consolidando-se como o estado com maior necessidade de intervenção logística e fiscalização.
+
+Alta concentração de ocorrências na BR-101 e BR-116, que juntas somam mais de 24 mil acidentes. A BR-101, isoladamente, lidera o ranking nacional com 13 mil registros, evidenciando o gargalo de segurança nos principais eixos rodoviários do país.
+
+Brasília destaca-se como o ponto crítico de gravidade, apresentando os maiores índices de vítimas fatais (47), feridos graves (212) e feridos leves (869) entre as cidades analisadas, o que sugere um impacto severo nos acidentes em perímetros urbanos federais.
+
+
 ## 📂 Estrutura do Repositório
 
 analise-acidentes-rodovias-2025
